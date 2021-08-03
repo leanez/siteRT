@@ -1,0 +1,1 @@
+Repositório criado para colocar em prática os conhecimentos de HTML e CSS com um projeto pessoal: o site do meu time de Pump It Up! 
