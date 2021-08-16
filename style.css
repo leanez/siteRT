@@ -2,10 +2,26 @@ body {
     background: gray;
 }
 
+header h1 {
+    padding: 20px;
+}
+
 #logo-time {
-    width: 50%;   
+    width: 40%; 
+    padding: 20px;
+}
+
+.principal {
+    padding: 20px;
+}
+
+.principal h2 {
+    padding: 20px;
+    margin: 0px;
 }
 
 .principal p{
     font-size: 30px;
+    padding: 20px;
+    margin-top: 0px;
 }
