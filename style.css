@@ -4,6 +4,7 @@ body {
 
 header h1 {
     padding: 20px;
+    text-align: center;
 }
 
 #logo-time {
@@ -18,10 +19,15 @@ header h1 {
 .principal h2 {
     padding: 20px;
     margin: 0px;
+    text-align: center;
 }
 
 .principal p{
     font-size: 30px;
     padding: 20px;
     margin-top: 0px;
+}
+
+.infos {
+    padding: 20px;
 }
