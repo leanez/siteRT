@@ -3,13 +3,17 @@ body {
 }
 
 header h1 {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
+    font-size: 40px;
 }
 
 #logo-time {
-    width: 40%; 
+    width: 50%; 
     padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .principal {
@@ -17,17 +21,37 @@ header h1 {
 }
 
 .principal h2 {
-    padding: 20px;
+    padding: 30px;
     margin: 0px;
     text-align: center;
+    font-size: 40px;
 }
 
 .principal p{
-    font-size: 30px;
+    font-size: 25px;
     padding: 20px;
     margin-top: 0px;
 }
 
 .infos {
     padding: 20px;
+}
+
+.infos h3 {
+    padding: 20px;
+    margin: 0;
+    font-size: ;
+}
+
+ul {
+    margin: 0;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5%;
+    width: 20%;
+}
+
+li {
+    font-size: 20px;
 }
