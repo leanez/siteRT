@@ -55,3 +55,23 @@ ul {
 li {
     font-size: 20px;
 }
+
+/* estilo da página tabela-de-scores */
+.cabecalho-tabela {
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+
+th, tr, td {
+    border: solid 1px black;
+}
+th {
+    font-weight: bold;
+}
